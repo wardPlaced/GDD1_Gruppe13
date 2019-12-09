@@ -19,6 +19,10 @@ config/name="TimedDetective"
 run/main_scene="res://dialog.tscn"
 config/icon="res://icon.png"
 
+[gui]
+
+theme/custom_font="res://Real Brush.otf"
+
 [rendering]
 
 environment/default_environment="res://default_env.tres"
